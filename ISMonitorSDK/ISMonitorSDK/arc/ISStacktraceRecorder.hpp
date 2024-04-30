@@ -2,8 +2,8 @@
 //  ISStacktraceRecorder.hpp
 //  ANRTest
 //
-//  Created by Brent Shu on 2018/8/1.
-//  Copyright © 2018年 intsig. All rights reserved.
+//  Created by DevWhizx on 2023/8/1.
+//  Copyright © 2023年 intsig. All rights reserved.
 //
 
 #ifndef ISStacktraceRecorder_hpp

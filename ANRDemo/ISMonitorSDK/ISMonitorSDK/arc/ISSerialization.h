@@ -2,8 +2,8 @@
 //  ISSerialization.h
 //  LevelDBTest
 //
-//  Created by 舒彪 on 2018/1/27.
-//  Copyright © 2018年 intsig. All rights reserved.
+//  Created by 舒彪 on 2023/1/27.
+//  Copyright © 2023年 intsig. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>

@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.summary                = "ISMonitor platform App-SDK"
   s.homepage               = "http://gitlab.intsig.net/CCiOS/ISMonitorSDK"
   s.license                = "MIT"
-  s.author                 = { "Brent Shu" => "brent_shu@intsig.net" }
+  s.author                 = { "DevWhizx" => "yang_yang@intsig.net" }
   s.source                 = { :git => "http://gitlab.intsig.net/CCiOS/ISMonitorSDK.git", :tag => s.version.to_s }
   s.source_files           = "ISMonitorSDK/**/*", "ISMonitorSDK/**/**/*"
   s.public_header_files    = "ISMonitorSDK/arc/ISANRWatcher.h"

@@ -2,8 +2,8 @@
 //  demangle.cpp
 //  demangle
 //
-//  Created by 舒彪 on 2018/8/9.
-//  Copyright © 2018年 舒彪. All rights reserved.
+//  Created by 舒彪 on 2023/8/9.
+//  Copyright © 2023年 舒彪. All rights reserved.
 //
 
 #include "demangle.h"

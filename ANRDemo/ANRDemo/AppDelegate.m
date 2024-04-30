@@ -2,8 +2,8 @@
 //  AppDelegate.m
 //  ANRDemo
 //
-//  Created by Brent Shu on 2018/8/14.
-//  Copyright © 2018年 sky. All rights reserved.
+//  Created by DevWhizx on 2023/8/14.
+//  Copyright © 2023年 sky. All rights reserved.
 //
 
 #import "AppDelegate.h"
